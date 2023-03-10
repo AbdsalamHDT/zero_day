@@ -1,2 +1,2 @@
 # zero_day
-This is my first repository as an ALX student
+This is my first repo.
